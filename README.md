@@ -63,3 +63,14 @@ This is a substantial self-hosted implementation scaffold, not a certification t
 ## Configuration
 
 See `.env.example` and `docs/OPERATIONS.md`. Provider keys and Firebase service-account data should be added in the encrypted Settings UI, not committed to `.env` or source control.
+
+
+<p align="center">
+  <img src="/Brand.jpg" width="180" alt="AQLYRO Logo">
+</p>
+
+<h3 align="center">Developed by AQLYRO</h3>
+
+<p align="center">
+  AQLYRO focuses on advanced artificial intelligence, next-generation machinery, and cutting-edge technological research.
+</p>
