@@ -1,0 +1,22 @@
+{
+  "project": "Aether Multi-Agent OS",
+  "version": "1.0.0-source",
+  "created_utc": "2026-11-21",
+  "total_files_before_manifest": 16169,
+  "agent_prompt_files": 16111,
+  "agent_counts": {
+    "master": 1,
+    "principal": 10,
+    "hod": 100,
+    "leader": 1000,
+    "specialist": 15000,
+    "total": 16111
+  },
+  "frontend": "Vanilla HTML/CSS/JavaScript (no React.js or Next.js)",
+  "deployment": "Docker Compose; no AppDeploy deployment performed",
+  "verification": [
+    "Python compileall passed",
+    "Node syntax check passed",
+    "3 agent roster tests passed"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Aether Multi-Agent OS",
+  "version": "1.0.0",
+  "counts": {
+    "master": 1,
+    "principal": 10,
+    "hod": 100,
+    "leader": 1000,
+    "specialist": 15000,
+    "total": 16111
+  },
+  "departments": [
+    "Product & Research",
+    "Architecture",
+    "Frontend Engineering",
+    "Backend Engineering",
+    "Data & AI",
+    "Cloud & DevOps",
+    "Security",
+    "Quality Assurance",
+    "Database",
+    "Mobile",
+    "Integrations",
+    "UX & Accessibility",
+    "Performance",
+    "Documentation",
+    "Release & Operations"
+  ],
+  "escalation": [
+    "leaders",
+    "hod",
+    "principals",
+    "master (critical unresolved only)",
+    "owner_review"
+  ]
+}
